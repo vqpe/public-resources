@@ -1,0 +1,5 @@
+2262 content/textures/ui/Emotes/EmotesIcon.png
+2483 content/textures/ui/Emotes/ErrorIcon.png
+3163 content/textures/ui/Emotes/Large/SelectedGradient.png
+921 content/textures/ui/Emotes/Large/SelectedLine.png
+7312410 content/textures/ui/Emotes/Large/segmentedcircle.png

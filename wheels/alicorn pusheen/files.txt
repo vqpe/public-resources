@@ -1,0 +1,6 @@
+1206 content/textures/ui/Emotes/EmotesIcon.png
+2483 content/textures/ui/Emotes/ErrorIcon.png
+3952293 content/textures/ui/Emotes/Large/segmentedcircle.png
+5996 content/textures/ui/Emotes/Large/selectedgradient.png
+841 content/textures/ui/Emotes/Large/selectedline.png
+cursor white alicorn pusheen
